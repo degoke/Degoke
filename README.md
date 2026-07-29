@@ -4,7 +4,7 @@ I build infrastructure for **healthcare, AI, cloud systems, developer tools, and
 
 My work focuses on reliable systems that operate locally, at the edge, on private infrastructure, and in the cloud.
 
-## Selected Projects
+## Projects
 
 **[HAIStack](https://github.com/degoke/HAIStack)** —  Health AI Stack, a Modular Go infrastructure for offline-first, FHIR-native healthcare and AI systems. · [Website](https://github.com/degoke/health-ai-stack/blob/main/README.md)
 
