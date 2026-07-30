@@ -16,6 +16,8 @@ My work focuses on reliable systems that operate locally, at the edge, on privat
 
 **[HAIMed](https://github.com/degoke/HAIMed)** — A research testbed for building and evaluating general-purpose, local-first multimodal medical AI. · [Website](https://github.com/degoke/HAIMed/blob/main/README.md)
 
+**[Trassfa](https://github.com/degoke/trassfa)** — Send crypto, receive in a bank account. Send fiat, receive in a crypto wallet. Two-way USDT/USDC ↔ NGN settlement for Nigeria. · [Website](https://github.com/degoke/trassfa/blob/main/README.md)
+
 ## Connect
 
 [GitHub](https://github.com/degoke) · [LinkedIn](https://linkedin.com/in/degoke) · [Website](https://adegoke.xyz) · [Email](mailto:degokeadewoye@gmail.com)
