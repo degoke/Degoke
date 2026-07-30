@@ -1,8 +1,6 @@
 # Adegoke Adewoye
 
-I build infrastructure for **healthcare, AI, cloud systems, developer tools, and distributed applications**.
-
-My work focuses on reliable systems that operate locally, at the edge, on private infrastructure, and in the cloud.
+I build things to solve my own daily problems, and I open-source them in case someone else needs them as well.
 
 ## Projects
 
