@@ -1,7 +1,5 @@
 # Adegoke Adewoye
 
-Creo, ergo sum.
-
 I build, therefore I am.
 
 ## Projects
