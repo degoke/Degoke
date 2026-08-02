@@ -1,6 +1,8 @@
 # Adegoke Adewoye
 
-I build things to solve my own daily problems, and I open-source them in case someone else needs them as well.
+Creo, ergo sum.
+
+I build, therefore I am.
 
 ## Projects
 
