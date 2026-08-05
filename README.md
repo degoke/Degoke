@@ -8,6 +8,8 @@ I build, therefore I am.
 
 **[Geass](https://github.com/degoke/geass)** — A self-hosted cloud platform for deploying and managing applications on VPS and bare-metal infrastructure.
 
+**[Preffo](https://usepreffo.com)** — AI job-application workspace: evidence-backed dossier, tailored materials per role, and interview prep. · [Website](https://usepreffo.com)
+
 **[Outpost](https://github.com/degoke/outpost)** — Run Docker, Kubernetes, and Linux development environments on remote servers from your local terminal. · [Website](https://outpost.adegoke.xyz)
 
 **[Tronvent](https://github.com/degoke/tronvent)** — A self-hosted TRON transaction monitor that delivers blockchain activity through signed webhooks. · [Website](https://tronvent.adegoke.xyz)
