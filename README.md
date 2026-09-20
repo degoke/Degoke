@@ -10,9 +10,9 @@ I build, therefore I am.
 
 **[Preffo](https://usepreffo.com)** — AI job-application workspace: evidence-backed dossier, tailored materials per role, and interview prep. · [Website](https://usepreffo.com)
 
-**[Outpost](https://github.com/degoke/outpost)** — Run Docker, Kubernetes, and Linux development environments on remote servers from your local terminal. · [Website](https://outpost.adegoke.xyz)
+**[Tronvent](https://github.com/degoke/tronvent)** — A self-hosted TRON transaction monitor that delivers blockchain activity through signed webhooks. · [Website](https://tronvent.com)
 
-**[Tronvent](https://github.com/degoke/tronvent)** — A self-hosted TRON transaction monitor that delivers blockchain activity through signed webhooks. · [Website](https://tronvent.adegoke.xyz)
+**[Outpost](https://github.com/degoke/outpost)** — Run Docker, Kubernetes, and Linux development environments on remote servers from your local terminal. · [Website](https://outpost.adegoke.xyz)
 
 **[HAIMed](https://github.com/degoke/HAIMed)** — A research testbed for building and evaluating general-purpose, local-first multimodal medical AI.
 
