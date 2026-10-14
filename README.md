@@ -1,23 +1,19 @@
 # Adegoke Adewoye
 
-I build, therefore I am.
+I'm a Lagos-based software engineer working across distributed systems, infrastructure, applied AI, and healthcare.
+
+At [Boolbyte](https://boolbyte.com), I build AI systems for healthcare operations, including FHIR infrastructure and agent-driven workflows.
+
+Through [HAIHQ](https://haihq.org), I research health AI and build open-source infrastructure for clinical AI systems.
+
+I build independent products and open-source tools through [3adelabs](https://3adelabs.com).
 
 ## Projects
 
-**[HAIStack](https://github.com/degoke/HAIStack)** —  Health AI Stack, a Modular Go infrastructure for offline-first, FHIR-native healthcare and AI systems.
+* **[Geass](https://rungeass.com)** — Deploy and manage applications on your own VPS or bare-metal servers with K3s. · [GitHub](https://github.com/degoke/geass)
+* **[BrowserBay](https://browserbay.3adelabs.com)** — Self-hosted browsers for AI agents and automation. · [GitHub](https://github.com/degoke/browserbay)
+* **[Tronvent](https://tronvent.com)** — Monitor TRON transactions and deliver signed webhooks to your application. · [GitHub](https://github.com/degoke/tronvent)
+* **[Preffo](https://usepreffo.com)** — An AI workspace for job applications and interview preparation.
+* **[Metsys](https://metsys.3adelabs.com)** — A sidekick for solo builders, for outreach, sales, marketing, and follow-ups.
 
-**[Geass](https://github.com/degoke/geass)** — A self-hosted cloud platform for deploying and managing applications on VPS and bare-metal infrastructure.
-
-**[Preffo](https://usepreffo.com)** — AI job-application workspace: evidence-backed dossier, tailored materials per role, and interview prep. · [Website](https://usepreffo.com)
-
-**[Tronvent](https://github.com/degoke/tronvent)** — A self-hosted TRON transaction monitor that delivers blockchain activity through signed webhooks. · [Website](https://tronvent.com)
-
-**[Outpost](https://github.com/degoke/outpost)** — Run Docker, Kubernetes, and Linux development environments on remote servers from your local terminal. · [Website](https://outpost.adegoke.xyz)
-
-**[HAIMed](https://github.com/degoke/HAIMed)** — A research testbed for building and evaluating general-purpose, local-first multimodal medical AI.
-
-**[Trassfa](https://github.com/degoke/trassfa)** — Send crypto, receive in a bank account. Send fiat, receive in a crypto wallet. Two-way USDT/USDC ↔ NGN settlement for Nigeria.
-
-## Connect
-
-[GitHub](https://github.com/degoke) · [LinkedIn](https://linkedin.com/in/degoke) · [Website](https://adegoke.xyz) · [Email](mailto:degokeadewoye@gmail.com)
+[Website](https://adegoke.xyz) · [LinkedIn](https://linkedin.com/in/degoke) · [Email](mailto:hello@adegoke.xyz)
