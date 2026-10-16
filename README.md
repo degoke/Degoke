@@ -12,6 +12,7 @@ I build independent products and open-source tools through [3adelabs](https://3a
 
 * **[Geass](https://rungeass.com)** — Deploy and manage applications on your own VPS or bare-metal servers with K3s. · [GitHub](https://github.com/degoke/geass)
 * **[BrowserBay](https://browserbay.3adelabs.com)** — Self-hosted browsers for AI agents and automation. · [GitHub](https://github.com/degoke/browserbay)
+* **[ReFHIR](https://refhir.haihq.org)** — Reactive FHIR Infrastructure for Healthcare AI. [GitHub](https://github.com/hai-hq/refhir)
 * **[Tronvent](https://tronvent.com)** — Monitor TRON transactions and deliver signed webhooks to your application. · [GitHub](https://github.com/degoke/tronvent)
 * **[Preffo](https://usepreffo.com)** — An AI workspace for job applications and interview preparation.
 * **[Metsys](https://metsys.3adelabs.com)** — A sidekick for solo builders, for outreach, sales, marketing, and follow-ups.
